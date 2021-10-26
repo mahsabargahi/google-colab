@@ -1,2 +1,2 @@
 # google-colab
-#linear regression and logistic regression analysis.
+#linear regression, logistic regression and time series analysis
